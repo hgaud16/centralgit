@@ -1,6 +1,6 @@
 #!/bin/bash
 
-read -p 'Enter your Name:' a
+read -p 'Enter your Nick Name:' a
 read -p 'Enter Your Birth Year:' b
 read -p 'Enter your Birth City:' c
 
